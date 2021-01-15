@@ -2,7 +2,7 @@
     height: 40px;
     width: 250px;
     position: relative;
-    left: 80px;
+    left: 10px;
 }
 .border-removal{
     border: 0;
@@ -28,5 +28,15 @@
 .footer-radius{
     border-radius:20px;
 }
-
-
+.fix-padding{
+    padding-top: 8em;
+}
+.create-space{
+    margin-top: 3em;
+}
+.bottom-fix{
+    padding-top: 3em;
+}
+.fix-navbar{
+    padding-right: 10em;
+}
