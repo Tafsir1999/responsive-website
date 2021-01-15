@@ -1,0 +1,32 @@
+.top-logo-fix img{
+    height: 40px;
+    width: 250px;
+    position: relative;
+    left: 80px;
+}
+.border-removal{
+    border: 0;
+}
+
+
+.remove-line{
+    border: 0;
+    background-color: white;
+
+}
+.shopping-logo img{
+    height: 35px;
+    width: 35px;
+}
+
+.icon-resize img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    left: 50px;
+}
+.footer-radius{
+    border-radius:20px;
+}
+
+
